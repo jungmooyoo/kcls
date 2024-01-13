@@ -5,12 +5,9 @@ public class AspectTest {
 	
 	private void publicTarget() { 
 		if ("test".equals("test")) {
-		    System.out.println("publicTarget Startqqqqqq22222223333333!!");
+        System.out.println("");
 		}else {
 			System.out.println("publicTarget End!!"); 
 		}
 	}
-	
-	
-
 }
