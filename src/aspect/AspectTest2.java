@@ -10,6 +10,9 @@ public class AspectTest2 {
 			System.out.println("publicTarget End!!"); 
 		}
 		
+		// 사이 추가 
+				System.out.println("");
+		
 		// 신규 추가 
 		if ("test".equals("test")) {
 		    System.out.println("publicTarget Start!!");
