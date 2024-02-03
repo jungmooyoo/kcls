@@ -23,6 +23,13 @@ public class AspectTest2 {
 				}else {
 					System.out.println("publicTarget End!!"); 
 				}
+				
+				// 신규 추가 2
+				if ("test".equals("test")) {
+				    System.out.println("publicTarget Start!!");
+				}else {
+					System.out.println("publicTarget End!!"); 
+				}		
 	}
 	
 	
