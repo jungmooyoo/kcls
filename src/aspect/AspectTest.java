@@ -33,6 +33,13 @@ public class AspectTest {
 			        System.out.println("");
 					}else {
 						System.out.println("publicTarget End!!"); 
-					}		
+					}	
+				
+		 // master  추가 
+		 if ("test".equals("test")) {
+		     System.out.println("");
+		 }else {
+		   	 System.out.println("publicTarget End!!"); 
+		 }		
 	}
 }
