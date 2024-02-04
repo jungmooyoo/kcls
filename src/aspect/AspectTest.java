@@ -41,5 +41,9 @@ public class AspectTest {
 		 }else {
 		   	 System.out.println("publicTarget End!!"); 
 		 }		
-	}
+		    // otherbranch1 추가 
+			System.out.println("otherbranch");
+		}		
+		
+
 }
